@@ -10,7 +10,7 @@ Control Engineer - Pianist, Composer
 
 * Summary of set up
 * Configuration
-* Dependencies
+* Dependencie
 * Database configuration
 * How to run tests
 * Deployment instructions
