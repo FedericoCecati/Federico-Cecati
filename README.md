@@ -5,6 +5,7 @@ Control Engineer - Pianist, Composer
 ### My Curriculum ###
 
 <embed src="https://github.com/FedericoCecati/Federico_Cecati/blob/master/FedericoCecatiCV.pdf" type="application/pdf" />
+<a target='_blank' href={require('https://github.com/FedericoCecati/Federico_Cecati/blob/master/FedericoCecatiCV.pdf')}>PDF Doc</a>
 
 ### How do I get set up? ###
 
