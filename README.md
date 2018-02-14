@@ -4,7 +4,7 @@ Control Engineer - Pianist, Composer
 
 ### My Curriculum ###
 
-[GitHub](http://nbviewer.jupyter.org/github/FedericoCecati/Federico_Cecati/blob/master/FedericoCecatiCV.pdf)
+[View the curriculum](http://nbviewer.jupyter.org/github/FedericoCecati/Federico_Cecati/blob/master/FedericoCecatiCV.pdf)
 
 ### How do I get set up? ###
 
