@@ -26,3 +26,5 @@ License:
 =======================================================================
 This template is free under the Creative Commons Attribution 3.0 License.
 https://creativecommons.org/licenses/by/3.0/
+
+My name is Federico Cecati, I was born in L'Aquila, a small city in the center of Italy, on the 4th May 1994. I have studied Control Engineering in University of L'Aquila and I got my master degree on October 2017. I play piano as weel, and I got my Conservatory Diploma in July 2017. Actually I'm a PhD student in Power Electronic at the University of Kiel with Prof. Marco Liserre as supervisor. My research field is advanced control applied to power electronic based power systems.
